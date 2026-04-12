@@ -1,59 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?catalogo version="1.0" fechaDeGen="1/04/2026"?>
 
-
-<catalogo>
+<catalogo version="1.0" fechaDeGen="1/04/2026" empresa="TurismoYa S.A">
     <destino "id=01">
-        <pais> 
-            México
-        </pais> 
-        <nombre>
-            Cancún
-        </nombre>
-        <precioUSD>  
-            $1800 
-        </precioUSD>     
-        <duracion>
-            5 días
-        </duracion>   
-        <descripcion>
-            Zona conocida por sus playas, los numerosos centros turísticos y la vida nocturna.
-        </descripcion>
+        <pais>México</pais> 
+        <nombre>Cancún</nombre>
+        <precioUSD>$1800</precioUSD>     
+        <duracion>5 días</duracion>   
+        <descripcion>Zona conocida por sus playas, los numerosos centros turísticos y la vida nocturna.</descripcion>
     </destino>
 
     <destino id="02">
-        <pais> 
-            Japón
-        </pais> 
-        <nombre>
-            Tokio
-        </nombre>
-        <precioUSD> 
-            $1200
-        </precioUSD>     
-        <duracion>
-            3 días
-        </duracion>   
-        <descripcion>
-            La ajetreada capital de Japón, mezcla lo ultramoderno y lo tradicional, desde los rascacielos iluminados con neones hasta los templos históricos. 
-        </descripcion>
+        <pais>Japón</pais> 
+        <nombre>Tokio</nombre>
+        <precioUSD>$1200</precioUSD>     
+        <duracion>3 días</duracion>   
+        <descripcion>La ajetreada capital de Japón, mezcla lo ultramoderno y lo tradicional, desde los rascacielos iluminados con neones hasta los templos históricos.</descripcion>
     </destino>
 
     <destino id="03">
-        <pais>
-            Argentina 
-        </pais> 
-        <nombre>
-            Rosario
-        </nombre>
-        <precioUSD>
-            $550   
-        </precioUSD>     
-        <duracion>
-            8 días
-        </duracion>   
-        <descripcion>
-            Una importante ciudad portuaria de Argentina, a 300 km al norte por el río Paraná desde la capital, Buenos Aires.
-        </descripcion>
+        <pais>Argentina</pais> 
+        <nombre>Rosario</nombre>
+        <precioUSD>$550</precioUSD>     
+        <duracion>8 días</duracion>   
+        <descripcion>Una importante ciudad portuaria de Argentina, a 300 km al norte por el río Paraná desde la capital, Buenos Aires.</descripcion>
     </destino>
 </catalogo>
