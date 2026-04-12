@@ -1,0 +1,47 @@
+{
+    "consultorio": "Meditrack",
+    "fecha": "2026-04-01",
+    "turnos": [
+        {
+            "número": "0294",
+            "hora": "11:30",
+            "estado": "cancelado",
+            "paciente":{
+                        "nombre":"Nelida Camaño",
+                        "dni": "32000908"
+            },
+            "medico": {
+                        "nombre": "Dr. Mendez",
+                        "especialidad": "Cardiología"
+            },
+            "observaciones":"Reasignar turno"
+        },
+        {
+            "número": "0350",
+            "hora": "15:45",
+            "estado": "confirmado",
+            "paciente":{
+                        "nombre":"Marcos Lopez",
+                        "dni": "25300700"
+            },
+            "medico": {
+                        "nombre": "Dra. Li",
+                        "especialidad": "Dermatología"
+            }
+        },
+        {
+            "número": "0392",
+            "hora": "17:10",
+            "estado": "pendiente",
+            "paciente":{
+                        "nombre":"Micaela García",
+                        "dni": "50550730"
+            },
+            "medico": {
+                        "nombre": "Dra. Rodríguez",
+                        "especialidad": "Hematología"
+            },
+             "observaciones":"Traer orden médica"
+        }
+    ]
+}
